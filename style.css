@@ -1,0 +1,226 @@
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;
+	font-family: sans-serif;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-size: cover;
+	margin: 0px;
+}
+div.header {
+	width: 100%;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	background-color: #222226;
+	font-size: 22.7px;
+}
+
+div.main {
+	background-color: #F1F1F1;
+}
+
+div.main_index {
+	width: 50%;
+	margin: auto;
+	border: 1px solid transparent;
+	background-image: url(ME.jpg);
+	background-repeat: no-repeat;
+	background-size: 540px;
+	background-position: center;
+}
+
+div.main_index_text {
+	background-color: rgba(0,0,0,0.75);
+	padding: 10px;
+	min-height: 200px;
+	margin-top: 350px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.main_index_text h2 {
+	color: #fff;
+	font-size: 24px;
+}
+
+div.main_index_text p {
+	color: #888;
+}
+
+div.main_opleiding_vakken {
+	width: 60%;
+	margin: auto;
+	border: 1px solid #f2f2f1;
+	padding: 10px;
+	margin-bottom: 25px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f2f2f1;
+}
+
+div.main_opleiding_opdrachten {
+	width: 60%;
+	margin: auto;
+	border: 1px solid #f2f2f1;
+	padding: 10px;
+	margin-bottom: 25px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f2f2f1;
+}
+
+div.main_opleiding_opdrachten img{
+	float: right;
+	padding: 5px;
+}
+
+div.main_opleiding_projecten {
+	width: 60%;
+	margin: auto;
+	border: 1px solid #f2f2f1;
+	padding: 10px;
+	margin-bottom: 25px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f2f2f1;
+}
+
+div.main_overmij {
+	width: 60%;
+	margin: auto;
+	border: 1px solid #f2f2f1;
+	padding: 10px 10px 0px;
+	margin-bottom: 25px;
+	min-width: 253px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f2f2f1;
+	min-height: 265.2px;
+}
+
+div.main_overmij h2 {
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+div.main_overmij p {
+	padding-bottom: 30px;
+}
+
+img.scouting {
+	float: right;
+	width: 100px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+img.friends {
+	float: left;
+	width: 100px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+div.main_beroep {
+	width: 60%;
+	margin: auto;
+	border: 1px solid #f2f2f1;
+	padding: 10px;
+	margin-bottom: 25px;
+	min-width: 253px;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f2f2f1;
+	min-height: 265.2px;
+}
+
+ul.navigation {
+	background-color: #282828;
+	width: 100%;
+	color: #FEFEFE;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+li {
+	display: inline-block;
+}
+
+li.nav_divider {
+	color: #75777b;
+	line-height: 20PX; 
+	width: 10PX;
+	font-size: 24.6px;
+}
+
+li.side_navigation {
+	display: list-item;
+	font-weight: normal;
+	padding-top: 20px;
+}
+
+li.title_side_navigation {
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+
+a.side_links {
+	text-decoration: none;
+	color: #333;
+}
+
+a.links {
+	text-decoration: none;
+	color: #D4D7DA;
+	line-height: 45px;
+	font-size: 22.2px;
+}
+
+a.links:link {
+
+}
+
+a.links:hover{
+	color: #FEFEFE
+}
+
+img.Quinten {
+	width: 233px;
+	height: 233px;
+	float: right;
+}
+
+div.main_beroep img {
+	float: right;
+	width: 50%;
+}
+
+h1 {
+	color: #53A317;
+}
+
+h2 {
+	color: #333332;
+}
+
+h3 {
+	color: #333332;
+}
+
+p {
+	color: #333;
+}
